@@ -1,0 +1,25 @@
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+.align-items-center {
+    align-items: center;
+}
+img {
+    vertical-align: middle;
+}
+.space-between {
+    justify-content: space-between;
+}
+html {
+    scroll-behavior: smooth;
+}
